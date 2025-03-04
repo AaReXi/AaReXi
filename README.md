@@ -17,11 +17,13 @@ Welcome to my GitHub profile! I'm passionate C++/C programmer.
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-20232A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ### 🖥️ Hardware Setup  
-- **OS:** ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)  
+- **OS:** ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
 - **CPU:** AMD 7 7700X  
 - **GPU:** RX 7800 XT  
 - **RAM:** 32GB DDR5  
-- **Storage:** 994 GiB SSD 
+- **Storage:** 994 GiB SSD
+
 - **Extras:** ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-20232A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)  
 
 ### 🚀 About Me
